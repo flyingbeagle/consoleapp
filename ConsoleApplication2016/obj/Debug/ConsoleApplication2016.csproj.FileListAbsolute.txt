@@ -1,0 +1,5 @@
+c:\users\danny\documents\visual studio 2015\Projects\ConsoleApplication2016\ConsoleApplication2016\bin\Debug\ConsoleApplication2016.exe.config
+c:\users\danny\documents\visual studio 2015\Projects\ConsoleApplication2016\ConsoleApplication2016\bin\Debug\ConsoleApplication2016.exe
+c:\users\danny\documents\visual studio 2015\Projects\ConsoleApplication2016\ConsoleApplication2016\bin\Debug\ConsoleApplication2016.pdb
+c:\users\danny\documents\visual studio 2015\Projects\ConsoleApplication2016\ConsoleApplication2016\obj\Debug\ConsoleApplication2016.exe
+c:\users\danny\documents\visual studio 2015\Projects\ConsoleApplication2016\ConsoleApplication2016\obj\Debug\ConsoleApplication2016.pdb
